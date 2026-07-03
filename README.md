@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/BkHassan">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=1D4ED8&center=true&vCenter=true&width=850&height=150&lines=Hi+there!+👋+I'm+Hassan+Boukatena,;An+Intelligent+Systems+Engineering+student;Passionate+about+AI+and+Data+Engineering.&multiline=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=1D4ED8&center=true&vCenter=true&width=850&lines=Hi+there!+👋+I'm+Hassan+Boukatena,;An+Intelligent+Systems+Engineering+student;Passionate+about+AI+and+Data+Engineering." alt="Typing SVG" />
   </a>
 </div>
 
