@@ -84,4 +84,6 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:0D1117&height=150&section=footer"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
