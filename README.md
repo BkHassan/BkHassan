@@ -5,12 +5,12 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I'm currently working on AI, Machine Learning, and Data Engineering projects.
-- 👯 I'm looking to collaborate on AI, NLP, and Data Engineering projects.
-- 🤝 I'm looking for help with MLOps, Apache Spark, and Azure.
-- 🌱 I'm currently learning Azure, Spark, Airflow, Kafka, and MLOps.
-- 💬 Ask me about RAG, NestJS, Backend Development, and AI-powered applications.
-- ⚡ Fun fact: I enjoy building real-world AI solutions and I'm always learning something new.
+- 🎓 I'm an Intelligent Systems Engineering student at Ibn Tofail University.
+- 💻 Background in Networks and Software Engineering.
+- 🚀 Currently focused on AI, Machine Learning, Data Engineering, and Data Analytics.
+- 💼 Seeking a Summer 2026 internship and a final-year (PFE) internship starting in June 2027.
+- 📫 Reach me on LinkedIn, GitHub, or via email.
+- 🤝 Feel free to reach out—I'm always excited to collaborate on new projects.
 
 
 ## 🌐 Reach me at:
