@@ -4,6 +4,8 @@
 
 </div>
 
+---
+
 # 💫 About Me:
 - 🎓 I'm an Intelligent Systems Engineering student at Ibn Tofail University.
 - 💻 Background in Networks and Software Engineering.
@@ -11,9 +13,12 @@
 - 💼 Seeking a Summer 2026 internship and a final-year (PFE) internship starting in June 2027.
 - 🤝 Feel free to reach out I'm always excited to collaborate on new projects.
 
+---
 
 ## 📫 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/boukatena-hassan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanboukatena@gmail.com) 
+
+---
 
 ### 💻 Tech Stack
 
@@ -74,6 +79,7 @@
 
 </div>
 
+---
 
 ### ✍️ Random Dev Quote
 
