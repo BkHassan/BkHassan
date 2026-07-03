@@ -17,11 +17,9 @@
 
 ### 💻 Tech Stack
 
-### 💻 Tech Stack
+### 🌐 Languages
 
 <div align="center">
-
-### 🌐 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
