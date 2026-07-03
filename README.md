@@ -1,8 +1,14 @@
+<div align="center">
+  <a href="https://github.com/BkHassan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=1D4ED8&center=true&vCenter=true&width=850&lines=Hi!+I'm+Hassan+Boukatena,;An+Intelligent+Systems+Engineering+student;Passionate+about+AI+and+Data+Engineering." alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 I'm an Intelligent Systems Engineering student at Ibn Tofail University.<br><br>with a background in Networks and software engineering<br><br>I'm currently focused on AI, Machine Learning, Data Engineering, and Data Analytics.<br><br>I'm currently looking for a Summer 2026 internship and a final-year (PFE) internship starting in June 2027.<br><br>Reach me at: Linkedin github email<br><br>Feel free to reach out I'm always excited to collaborate on new projects.
 
 
-## 🌐 Socials:
+## 🌐 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/boukatena-hassan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanboukatena@gmail.com) 
 
 ### 💻 Tech Stack
