@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Hassan Boukatena</h1>
-  <h3><span style="color: #1D4ED8;">An Intelligent Systems Engineering student<br/>Passionate about AI and Data Engineering.</span></h3>
+  <a href="https://github.com/BkHassan">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=1D4ED8&center=true&vCenter=true&width=850&lines=Hi+there!+👋+I'm+Hassan+Boukatena," alt="Name" />
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=850&lines=An+Intelligent+Systems+Engineering+student" alt="Title" />
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=1D4ED8&center=true&vCenter=true&width=850&lines=Passionate+about+AI+and+Data+Engineering." alt="Passion" />
+  </a>
 </div>
 
 # 💫 About Me:
