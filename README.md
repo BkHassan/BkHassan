@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there!+%F0%9F%91%8B+I'm+Hassan+Boukatena;An+Intelligent+Systems+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1800&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi+there!+%F0%9F%91%8B;I'm+Hassan+Boukatena;Building+AI+%7C+Data+Engineering+%7C+Cloud+Solutions)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I'm an Intelligent Systems Engineering student at Ibn Tofail University.<br><br>with a background in Networks and software engineering<br><br>I'm currently focused on AI, Machine Learning, Data Engineering, and Data Analytics.<br><br>I'm currently looking for a Summer 2026 internship and a final-year (PFE) internship starting in June 2027.<br><br>Reach me at: Linkedin github email<br><br>Feel free to reach out I'm always excited to collaborate on new projects.
