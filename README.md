@@ -86,6 +86,25 @@
 
 </div>
 
+<div align="center">
+
+---
+
+## 📜 Certifications
+
+[![AWS Cloud Essentials](https://img.shields.io/badge/AWS-Cloud%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![EF SET C1](https://img.shields.io/badge/EF%20SET-C1%20Advanced-00AEEF?style=for-the-badge&logo=ef&logoColor=white)](#)
+[![DevOps](https://img.shields.io/badge/DevOps-Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-Codecademy-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-Codecademy-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-Ark--x-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![Git](https://img.shields.io/badge/Advanced%20Git%20%26%20GitHub-Ark--x-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Full Stack MERN](https://img.shields.io/badge/Full--Stack%20JS%20MERN-Ark--x-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+
+</div>
+
 ---
 
 ### ✍️ Random Dev Quote
