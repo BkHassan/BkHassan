@@ -86,18 +86,23 @@
 
 </div>
 
-<div align="center">
 
 ---
 
 ## 📜 Certifications
 
-- 🟠 AWS Cloud Essentials Knowledge Badge
-- 🔵 EF SET — C1 Advanced (English)
-- ⚙️ Introduction to DevOps — Codecademy
-- 🐳 Docker — Ark-x Talent Group
-- 🌐 Full-Stack JS MERN — Ark-x Talent Group
-- 📘 Advanced Git & GitHub — Ark-x Talent Group
+<div align="center">
+  
+| Certification | Provider |
+|---------------|----------|
+| AWS Cloud Essentials Knowledge Badge | AWS |
+| EF SET C1 Advanced | EF SET |
+| Introduction to DevOps | Codecademy |
+| Docker | Ark-x |
+| Full-Stack JS MERN | Ark-x |
+| Advanced Git & GitHub | Ark-x |
+
+</div>
 
 ---
 
