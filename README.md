@@ -11,7 +11,7 @@
 - 💻 Background in Networks and Software Engineering.
 - 🚀 Currently focused on AI, Machine Learning, Data Engineering, and Data Analytics.
 - 💼 Seeking a Summer 2026 internship and a final-year (PFE) internship starting in June 2027.
-- 🤝 Feel free to reach out I'm always excited to collaborate on new projects.
+- 🤝 I'm looking to contribute to AI, Python, and Data Engineering open-source projects.
 
 ---
 
@@ -103,6 +103,8 @@
 | Advanced Git & GitHub | Ark-x |
 
 </div>
+
+---
 
 ---
 
