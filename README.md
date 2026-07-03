@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://github.com/BkHassan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=1D4ED8&center=true&vCenter=true&width=850&lines=Hi+there!+%F0%9F%91%8B+I'm+Hassan+Boukatena;An+Intelligent+Systems+Engineering+student;Passionate+about+AI+and+Data+Engineering." alt="Typing SVG" />
-  </a>
+  <h1>Hi there! 👋 I'm Hassan Boukatena</h1>
+  <h3><span style="color: #1D4ED8;">An Intelligent Systems Engineering student<br/>Passionate about AI and Data Engineering.</span></h3>
 </div>
 
 # 💫 About Me:
